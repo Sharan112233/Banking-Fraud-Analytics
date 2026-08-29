@@ -83,22 +83,12 @@ SELECT
     fa.risk_score,
 
     CASE
-
-        WHEN fa.risk_score = 4
-            THEN 'Critical'
-
-        WHEN fa.risk_score = 3
-            THEN 'High'
-
-        WHEN fa.risk_score = 2
-            THEN 'Medium'
-
-        WHEN fa.risk_score = 1
-            THEN 'Low'
-
-        ELSE 'Normal'
-
-    END AS risk_level,
+    WHEN fa.risk_score >= 4 THEN 'Critical'
+    WHEN fa.risk_score = 3 THEN 'High'
+    WHEN fa.risk_score = 2 THEN 'Medium'
+    WHEN fa.risk_score = 1 THEN 'Low'
+    ELSE 'Low'
+END AS risk_level
 
     fa.alert_status,
 
