@@ -1,0 +1,51 @@
+branch_id,branch_name,city,state
+BR0001,Mumbai Branch 1,Mumbai,Maharashtra
+BR0002,Kochi Branch 2,Kochi,Kerala
+BR0003,Hyderabad Branch 3,Hyderabad,Telangana
+BR0004,Mumbai Branch 4,Mumbai,Maharashtra
+BR0005,Kanpur Branch 5,Kanpur,Uttar Pradesh
+BR0006,Bengaluru Branch 6,Bengaluru,Karnataka
+BR0007,Pune Branch 7,Pune,Maharashtra
+BR0008,Hyderabad Branch 8,Hyderabad,Telangana
+BR0009,Jaipur Branch 9,Jaipur,Rajasthan
+BR0010,Udaipur Branch 10,Udaipur,Rajasthan
+BR0011,Warangal Branch 11,Warangal,Telangana
+BR0012,Kanpur Branch 12,Kanpur,Uttar Pradesh
+BR0013,Mysuru Branch 13,Mysuru,Karnataka
+BR0014,Surat Branch 14,Surat,Gujarat
+BR0015,Kochi Branch 15,Kochi,Kerala
+BR0016,Warangal Branch 16,Warangal,Telangana
+BR0017,Mumbai Branch 17,Mumbai,Maharashtra
+BR0018,Ahmedabad Branch 18,Ahmedabad,Gujarat
+BR0019,New Delhi Branch 19,New Delhi,Delhi
+BR0020,Kanpur Branch 20,Kanpur,Uttar Pradesh
+BR0021,Hubballi Branch 21,Hubballi,Karnataka
+BR0022,Jaipur Branch 22,Jaipur,Rajasthan
+BR0023,Ahmedabad Branch 23,Ahmedabad,Gujarat
+BR0024,Udaipur Branch 24,Udaipur,Rajasthan
+BR0025,Kanpur Branch 25,Kanpur,Uttar Pradesh
+BR0026,Lucknow Branch 26,Lucknow,Uttar Pradesh
+BR0027,Mumbai Branch 27,Mumbai,Maharashtra
+BR0028,Warangal Branch 28,Warangal,Telangana
+BR0029,Pune Branch 29,Pune,Maharashtra
+BR0030,Nashik Branch 30,Nashik,Maharashtra
+BR0031,Thiruvananthapuram Branch 31,Thiruvananthapuram,Kerala
+BR0032,New Delhi Branch 32,New Delhi,Delhi
+BR0033,New Delhi Branch 33,New Delhi,Delhi
+BR0034,Warangal Branch 34,Warangal,Telangana
+BR0035,Pune Branch 35,Pune,Maharashtra
+BR0036,Jaipur Branch 36,Jaipur,Rajasthan
+BR0037,Coimbatore Branch 37,Coimbatore,Tamil Nadu
+BR0038,Surat Branch 38,Surat,Gujarat
+BR0039,Jaipur Branch 39,Jaipur,Rajasthan
+BR0040,New Delhi Branch 40,New Delhi,Delhi
+BR0041,Hyderabad Branch 41,Hyderabad,Telangana
+BR0042,New Delhi Branch 42,New Delhi,Delhi
+BR0043,Kochi Branch 43,Kochi,Kerala
+BR0044,Warangal Branch 44,Warangal,Telangana
+BR0045,Warangal Branch 45,Warangal,Telangana
+BR0046,Vadodara Branch 46,Vadodara,Gujarat
+BR0047,Kolkata Branch 47,Kolkata,West Bengal
+BR0048,Kochi Branch 48,Kochi,Kerala
+BR0049,Warangal Branch 49,Warangal,Telangana
+BR0050,Kanpur Branch 50,Kanpur,Uttar Pradesh
