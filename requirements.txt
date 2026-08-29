@@ -2,3 +2,7 @@ pandas==2.2.2
 numpy
 Faker
 psycopg2-binary
+python-dotenv
+pandas
+faker
+numpy

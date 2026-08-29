@@ -2,17 +2,21 @@ import psycopg2
 from pathlib import Path
 import csv
 
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # ============================================
 # DATABASE CONFIGURATION
 # ============================================
 
 DB_CONFIG = {
-    "host": "localhost",
-    "port": 5432,
-    "database": "banking_fraud_analytics",
-    "user": "postgres",
-    "password": "1234"
+    "host": os.getenv("DB_HOST"),
+    "port": os.getenv("DB_PORT", "5432"),
+    "database": os.getenv("DB_NAME"),
+    "user": os.getenv("DB_USER"),
+    "password": os.getenv("DB_PASSWORD")
 }
 
 
